@@ -2,15 +2,12 @@
 
 ## Description
 
-This is a Quiz application that will ask you a series of 3 questions about javascript programming.
+This is a Object Relational mapping homework that shows the relationships between tables and how you can GET,PUT,POST, and DELETE data from a database.
 
-To start the quiz you will click the start quiz button that will show you a question and 3 possible answers. A timer will start at 20 seconds and count down. if you get a question wrong you stay on the same question but 2 seconds will be subtracted from the timer. if you get the question right it will initialize the next question. if all 3 questions are answered correctly before the timer hits zero you will get a window prompt that asks for your intials and your score will be recorded below. if you hit the restart button the quiz will start over.
-
-## Screenshot
-
-<!-- ![Quiz app that has a start game button, a restart button. Questions will prompt on middle of screen with 3 answer buttons below. Timer and high scores will be shown under all content. the first picture will show the quiz running.](./assets/img/quicRunning.png) -->
+To start you will create the DB and the seed js files. once your database and your tables are seeded with data you can run your localhost server through your terminal. form their you can use Thunder Client in VS code and start using these different fetches like, GET will retrieve data from a specified table, PUT will allow you to update data in a table, POST will allow the user to create new items and save them in a Database, and DELETE will delete the specific data point that you request.
 
 ## Links to Application
 
 - Here is the link to the repo: [smarr2198/repo](https://github.com/smarr2198/Object-Relational-Mapping)
 - Here is the link to the pages: [smarr2198/pages](https://smarr2198.github.io/Object-Relational-Mapping/)
+- Here is the link to the video walkthrough: [smarr2198/Video](https://drive.google.com/file/d/1h012K3D1nB15Pii_lvl86rKD16VIMglt/view)
